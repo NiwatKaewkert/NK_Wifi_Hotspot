@@ -1,0 +1,33 @@
+c:\users\niwat\documents\visual studio 2013\Projects\NK Wi-Fi Hotspot V1-1\NK Wi-Fi Hotspot V1-1\bin\Debug\NK Wi-Fi Hotspot V1-1.exe.config
+C:\Users\Niwat\Documents\Visual Studio 2013\Projects\NK Wi-Fi Hotspot V1-1\NK Wi-Fi Hotspot V1-1\bin\Debug\NK Wi-Fi Hotspot V1-1.exe
+C:\Users\Niwat\Documents\Visual Studio 2013\Projects\NK Wi-Fi Hotspot V1-1\NK Wi-Fi Hotspot V1-1\bin\Debug\NK Wi-Fi Hotspot V1-1.pdb
+C:\Users\Niwat\Documents\Visual Studio 2013\Projects\NK Wi-Fi Hotspot V1-1\NK Wi-Fi Hotspot V1-1\obj\Debug\NK Wi-Fi Hotspot V1-1.csprojResolveAssemblyReference.cache
+C:\Users\Niwat\Documents\Visual Studio 2013\Projects\NK Wi-Fi Hotspot V1-1\NK Wi-Fi Hotspot V1-1\obj\Debug\NK_Wi_Fi_Hotspot_V1_1.Form1.resources
+C:\Users\Niwat\Documents\Visual Studio 2013\Projects\NK Wi-Fi Hotspot V1-1\NK Wi-Fi Hotspot V1-1\obj\Debug\NK_Wi_Fi_Hotspot_V1_1.Properties.Resources.resources
+C:\Users\Niwat\Documents\Visual Studio 2013\Projects\NK Wi-Fi Hotspot V1-1\NK Wi-Fi Hotspot V1-1\obj\Debug\NK Wi-Fi Hotspot V1-1.csproj.GenerateResource.Cache
+C:\Users\Niwat\Documents\Visual Studio 2013\Projects\NK Wi-Fi Hotspot V1-1\NK Wi-Fi Hotspot V1-1\obj\Debug\NK Wi-Fi Hotspot V1-1.exe
+C:\Users\Niwat\Documents\Visual Studio 2013\Projects\NK Wi-Fi Hotspot V1-1\NK Wi-Fi Hotspot V1-1\obj\Debug\NK Wi-Fi Hotspot V1-1.pdb
+C:\Users\Niwat\Documents\Visual Studio 2013\Projects\NK Wi-Fi Hotspot V1-1\NK Wi-Fi Hotspot V1-1\obj\Debug\NK_Wi_Fi_Hotspot_V1_1.Form2.resources
+C:\Users\Niwat\Documents\Visual Studio 2013\Projects\NK Wi-Fi Hotspot V1-1\NK Wi-Fi Hotspot V1-1\obj\Debug\NK_Wi_Fi_Hotspot_V1_1.Form3.resources
+C:\Users\niwat kaewkert\Downloads\NK Wi-Fi Hotspot V1-1\NK Wi-Fi Hotspot V1-1\NK Wi-Fi Hotspot V1-1\bin\Debug\NK Wi-Fi Hotspot V1-1.exe.config
+C:\Users\niwat kaewkert\Downloads\NK Wi-Fi Hotspot V1-1\NK Wi-Fi Hotspot V1-1\NK Wi-Fi Hotspot V1-1\obj\Debug\NK Wi-Fi Hotspot V1-1.exe
+C:\Users\niwat kaewkert\Downloads\NK Wi-Fi Hotspot V1-1\NK Wi-Fi Hotspot V1-1\NK Wi-Fi Hotspot V1-1\obj\Debug\NK Wi-Fi Hotspot V1-1.pdb
+C:\Users\niwat kaewkert\Downloads\NK Wi-Fi Hotspot V1-1\NK Wi-Fi Hotspot V1-1\NK Wi-Fi Hotspot V1-1\bin\Debug\NK Wi-Fi Hotspot V1-1.exe
+C:\Users\niwat kaewkert\Downloads\NK Wi-Fi Hotspot V1-1\NK Wi-Fi Hotspot V1-1\NK Wi-Fi Hotspot V1-1\bin\Debug\NK Wi-Fi Hotspot V1-1.pdb
+C:\Users\niwat kaewkert\Downloads\NK Wi-Fi Hotspot V1-1\NK Wi-Fi Hotspot V1-1\NK Wi-Fi Hotspot V1-1\obj\Debug\NK Wi-Fi Hotspot V1-1.csprojResolveAssemblyReference.cache
+C:\Users\niwat kaewkert\Downloads\NK Wi-Fi Hotspot V1-1\NK Wi-Fi Hotspot V1-1\NK Wi-Fi Hotspot V1-1\obj\Debug\NK_Wi_Fi_Hotspot_V1_1.Form1.resources
+C:\Users\niwat kaewkert\Downloads\NK Wi-Fi Hotspot V1-1\NK Wi-Fi Hotspot V1-1\NK Wi-Fi Hotspot V1-1\obj\Debug\NK_Wi_Fi_Hotspot_V1_1.Form2.resources
+C:\Users\niwat kaewkert\Downloads\NK Wi-Fi Hotspot V1-1\NK Wi-Fi Hotspot V1-1\NK Wi-Fi Hotspot V1-1\obj\Debug\NK_Wi_Fi_Hotspot_V1_1.Form3.resources
+C:\Users\niwat kaewkert\Downloads\NK Wi-Fi Hotspot V1-1\NK Wi-Fi Hotspot V1-1\NK Wi-Fi Hotspot V1-1\obj\Debug\NK_Wi_Fi_Hotspot_V1_1.Properties.Resources.resources
+C:\Users\niwat kaewkert\Downloads\NK Wi-Fi Hotspot V1-1\NK Wi-Fi Hotspot V1-1\NK Wi-Fi Hotspot V1-1\obj\Debug\NK Wi-Fi Hotspot V1-1.csproj.GenerateResource.Cache
+C:\Users\Hail Kakoil\Work\NK Wi-Fi Hotspot V1-1\NK Wi-Fi Hotspot V1-1\bin\Debug\NK Wi-Fi Hotspot V1-1.exe.config
+C:\Users\Hail Kakoil\Work\NK Wi-Fi Hotspot V1-1\NK Wi-Fi Hotspot V1-1\obj\Debug\NK Wi-Fi Hotspot V1-1.exe
+C:\Users\Hail Kakoil\Work\NK Wi-Fi Hotspot V1-1\NK Wi-Fi Hotspot V1-1\obj\Debug\NK Wi-Fi Hotspot V1-1.pdb
+C:\Users\Hail Kakoil\Work\NK Wi-Fi Hotspot V1-1\NK Wi-Fi Hotspot V1-1\bin\Debug\NK Wi-Fi Hotspot V1-1.exe
+C:\Users\Hail Kakoil\Work\NK Wi-Fi Hotspot V1-1\NK Wi-Fi Hotspot V1-1\bin\Debug\NK Wi-Fi Hotspot V1-1.pdb
+C:\Users\Hail Kakoil\Work\NK Wi-Fi Hotspot V1-1\NK Wi-Fi Hotspot V1-1\obj\Debug\NK Wi-Fi Hotspot V1-1.csprojResolveAssemblyReference.cache
+C:\Users\Hail Kakoil\Work\NK Wi-Fi Hotspot V1-1\NK Wi-Fi Hotspot V1-1\obj\Debug\NK_Wi_Fi_Hotspot_V1_1.Form1.resources
+C:\Users\Hail Kakoil\Work\NK Wi-Fi Hotspot V1-1\NK Wi-Fi Hotspot V1-1\obj\Debug\NK_Wi_Fi_Hotspot_V1_1.Form2.resources
+C:\Users\Hail Kakoil\Work\NK Wi-Fi Hotspot V1-1\NK Wi-Fi Hotspot V1-1\obj\Debug\NK_Wi_Fi_Hotspot_V1_1.Form3.resources
+C:\Users\Hail Kakoil\Work\NK Wi-Fi Hotspot V1-1\NK Wi-Fi Hotspot V1-1\obj\Debug\NK_Wi_Fi_Hotspot_V1_1.Properties.Resources.resources
+C:\Users\Hail Kakoil\Work\NK Wi-Fi Hotspot V1-1\NK Wi-Fi Hotspot V1-1\obj\Debug\NK Wi-Fi Hotspot V1-1.csproj.GenerateResource.Cache
